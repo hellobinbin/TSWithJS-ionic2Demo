@@ -1,0 +1,57 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      About
+    </ion-title>
+
+  </ion-navbar>
+  <ion-toolbar>
+    <ion-title>Subheader</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-fab bottom right >
+    <button ion-fab>Share</button>
+    <ion-fab-list side="top">
+      <button ion-fab>Facebook</button>
+      <button ion-fab>Twitter</button>
+      <button ion-fab>Youtube</button>
+    </ion-fab-list>
+    <ion-fab-list side="left">
+      <button ion-fab>Vimeo</button>
+    </ion-fab-list>
+  </ion-fab>
+  <ion-fab bottom  left >
+  <button ion-fab>Share</button>
+  <ion-fab-list side="top">
+    <button ion-fab>Facebook</button>
+    <button ion-fab>Twitter</button>
+    <button ion-fab>Youtube</button>
+  </ion-fab-list>
+  <ion-fab-list side="right">
+    <button ion-fab>Vimeo</button>
+  </ion-fab-list>
+  </ion-fab>
+
+  <div hideWhen="android">
+    I am hidden on Android!
+  </div>
+
+  <div hideWhen="ios">
+    I am hidden on iOS!
+  </div>
+
+  <div hideWhen="android,ios">
+    I am hidden on Android and iOS!
+  </div>
+
+
+  <ion-footer>
+    <ion-toolbar>
+      <ion-title>Footer</ion-title>
+    </ion-toolbar>
+  </ion-footer>
+
+</ion-content>

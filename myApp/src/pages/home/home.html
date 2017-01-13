@@ -1,0 +1,80 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h2>Welcome to Ionic!</h2>
+  <p>
+    This starter project comes with simple tabs-based layout for apps
+    that are going to primarily use a Tabbed UI.
+  </p>
+  <p>
+    Take a look at the <code>src/pages/</code> directory to add or change tabs,
+    update any existing page or create new pages.
+  </p>
+  <ion-list>
+
+    <ion-item>
+      <ion-label>Pepperoni</ion-label>
+      <ion-checkbox [(ngModel)]="pepperoni" color = 'danger'></ion-checkbox>
+    </ion-item>
+
+    <ion-item>
+      <ion-label>Sausage</ion-label>
+      <ion-checkbox [(ngModel)]="sausage" disabled="true"></ion-checkbox>
+    </ion-item>
+
+    <ion-item>
+      <ion-label>Mushrooms</ion-label>
+      <ion-checkbox [(ngModel)]="mushrooms"></ion-checkbox>
+    </ion-item>
+    <button ion-button>Default</button>
+
+    <button ion-button color="secondary">Secondary</button>
+
+    <button ion-button color="danger">Danger</button>
+
+    <button ion-button color="light">Light</button>
+
+    <button ion-button color="dark">Dark</button>
+    <!-- Shapes -->
+    <button ion-button full>Full Button</button>
+
+    <button ion-button block>Block Button</button>
+
+    <button ion-button round>Round Button</button>
+
+    <!-- Outline -->
+    <button ion-button full outline>Outline + Full</button>
+
+    <button ion-button block outline>Outline + Block</button>
+
+    <button ion-button round outline>Outline + Round</button>
+
+    <!-- Icons -->
+    <button ion-button icon-left>
+      <ion-icon name="star"></ion-icon>
+      Left Icon
+    </button>
+
+    <button ion-button icon-right (click)="app()">
+      Right Icon
+      <ion-icon name="star"></ion-icon>
+    </button>
+
+    <button ion-button icon-only>
+      <ion-icon name="star"></ion-icon>
+    </button>
+
+    <!-- Sizes -->
+    <button ion-button large>Large</button>
+
+    <button ion-button>Default</button>
+
+    <button ion-button small>Small</button>
+
+
+  </ion-list>
+</ion-content>
