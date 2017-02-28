@@ -1,0 +1,110 @@
+[
+  {
+    "file": "assets/fonts/ionicons.eot",
+    "hash": "bdf1d30681cf87986c385eea78e8de9a"
+  },
+  {
+    "file": "assets/fonts/ionicons.scss",
+    "hash": "d500900a39e39e0b966a5ed077e97a66"
+  },
+  {
+    "file": "assets/fonts/ionicons.svg",
+    "hash": "d9496a234c81179afbca6bf5959cc30a"
+  },
+  {
+    "file": "assets/fonts/ionicons.ttf",
+    "hash": "74c652671225d6ded874a648502e5f0a"
+  },
+  {
+    "file": "assets/fonts/ionicons.woff",
+    "hash": "81414686e99c00d2921e03dd53c0ab04"
+  },
+  {
+    "file": "assets/fonts/ionicons.woff2",
+    "hash": "311d81961c5880647fec7eaca1221b2a"
+  },
+  {
+    "file": "assets/fonts/noto-sans-bold.ttf",
+    "hash": "a165a42685795361b25593effb32fdb1"
+  },
+  {
+    "file": "assets/fonts/noto-sans-regular.ttf",
+    "hash": "2fd9c16b805724d590c0cff96da070a4"
+  },
+  {
+    "file": "assets/fonts/noto-sans.scss",
+    "hash": "6bac389ffd06cee54203b32c8ff9552c"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.ttf",
+    "hash": "1f4fd7e4df65487f07ba9148f7ca095d"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.woff",
+    "hash": "43183beef21370d8a4b0d64152287eba"
+  },
+  {
+    "file": "assets/fonts/roboto-light.ttf",
+    "hash": "9ff15bd34ea83e4dd3f23c20c7f5090e"
+  },
+  {
+    "file": "assets/fonts/roboto-light.woff",
+    "hash": "7e2d32e7141050d758a38b4ec96390c0"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.ttf",
+    "hash": "a937e2cae14e68262a45aa91204c2fdf"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.woff",
+    "hash": "0f3b7101a8adc1afe1fbe89775553c32"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.ttf",
+    "hash": "07f8fb6acbabeb10d3fad9ab02d65e0b"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.woff",
+    "hash": "f94d5e5102359961c44a1da1b58d37c9"
+  },
+  {
+    "file": "assets/fonts/roboto.scss",
+    "hash": "d33ff976051c41f042ecd6c825855e7f"
+  },
+  {
+    "file": "assets/icon/favicon.ico",
+    "hash": "0350f4b3a2067110b1e642ee5931a38a"
+  },
+  {
+    "file": "build/main.css",
+    "hash": "3f6d0449bad50a5f8c19daca4c469e62"
+  },
+  {
+    "file": "build/main.js",
+    "hash": "5ad233eb242b1b4f163330a34a610888"
+  },
+  {
+    "file": "build/main.js.map",
+    "hash": "fb2234fce1d2a6ae8ef709c18ccbef5a"
+  },
+  {
+    "file": "build/polyfills.js",
+    "hash": "eaa2a2df3350d74170e7de0d05344c72"
+  },
+  {
+    "file": "index.html",
+    "hash": "58e195ad4bfe9c003ce45e4550e7e9f3"
+  },
+  {
+    "file": "manifest.json",
+    "hash": "df9b99468d4bd4cf2fee5d24ed9badbf"
+  },
+  {
+    "file": "service-worker.js",
+    "hash": "ad8e1ecec78a692477047bcbc8be7508"
+  },
+  {
+    "file": "update.js",
+    "hash": "972e64204a4230166c6b7968bb12e0e8"
+  }
+]
